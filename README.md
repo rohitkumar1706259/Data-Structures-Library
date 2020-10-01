@@ -20,7 +20,7 @@ Currently Implemented Data Structures Are :
 4. Binary Search Tree (BST)
 5. An Extensive Graph Library
 6. Segment Tree
-
+7. Set
 Currently Working On :
 
 1. Queue - Both Normal and Priority
